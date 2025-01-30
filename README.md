@@ -1,0 +1,1 @@
+This is a social media platform that offers "everything and anything" witha combination of machine learning. This social media platform is for sale and what you are seeing now is just the front end, the backend couldn't upload on github but it is avaiable for potential buyers.
